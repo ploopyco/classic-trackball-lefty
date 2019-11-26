@@ -8,6 +8,10 @@ What are you waiting for? Your new life awaits.
 
 Did I mention that this is for left-handed people? Because HELL YEAH, it is.
 
+## Schematics
+
+Note that the schematics are the same as the right-handed version of this mouse, so the revision number will say RX.XXX, not LX.XXX. This is intentional: the mice are schematically identical, and only the layout of the PCBs is different.
+
 ## Under what license is this released?
 
 The firmware is released under GPLv3. The hardware is released under OHL CERN v1.2. Check the respective directories for full license text.
