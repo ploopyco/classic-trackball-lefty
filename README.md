@@ -8,6 +8,10 @@ What are you waiting for? Your new life awaits.
 
 Did I mention that this is for left-handed people? Because HELL YEAH, it is.
 
+## QMK Firmware
+
+If you're looking for a hex file containing working QMK code with a keymapping compatible with VIA, look in the firmware directory.
+
 ## Schematics
 
 Note that the schematics are the same as the right-handed version of this mouse, so the revision number will say RX.XXX, not LX.XXX. This is intentional: the mice are schematically identical, and only the layout of the PCBs is different.
